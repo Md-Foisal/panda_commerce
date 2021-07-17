@@ -1,0 +1,142 @@
+/*------------Nav Start----------*/
+.cnt-mrg-top {
+    margin-top: 20px;
+}
+.frm-wdth {
+    width: 60%;
+}
+.nv-wdth {
+    width: 40%;
+}
+.in-hgt {
+    height: 30px;
+    border-radius: 50px;
+}
+.psn-rltv {
+    position: relative;
+}
+.psn-abslt {
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+}
+.btn img {
+    width: 17px;
+    height: auto;
+}
+/*-----------------Slider Star-----------------*/
+.sldr-bg {
+    background: #FEEAE9;
+    height: 500px;
+    overflow: hidden;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.bnr-img-wdt {
+    width: 90%;
+    height: auto;
+    vertical-align: middle;
+}
+.pink-bg-t-rgt {
+    background: linear-gradient(to right, #FF589B, #FF136F);
+}
+.pink-bg-t-btm {
+    background: linear-gradient(to bottom, #ff589b, #ff136f);
+}
+.buy-btn {
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+/*----------------Catagories---------------*/
+.ctg-box {
+    width: 95%;
+    padding: 5px 30px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+.ctg-box img {
+    vertical-align: middle;
+}
+.ylw-bg-t-rgt {
+    background: linear-gradient(to right bottom, #FF9C35, #FFD019);
+}
+.blu-bg-t-rgt {
+    background: linear-gradient(to right bottom, #4289FF, #3F07F8);
+}
+/*--------------Products-------------*/
+.gray-bg {
+    background: #F8F8F8;
+}
+.prdct-box {
+    width: 95%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #1f1f1f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.img {
+    width: 50%;
+    height: auto;
+    align-self: center;
+}
+.buy-btn-2 {
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+.black-bg-t-btm {
+    background: #000;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: #6f6f6f 10px 10px 20px;
+}
+/*-------------Email Section----------*/
+.email-bg {
+    background: #FEEAE9;
+    padding: 50px 10px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.inpt-em {
+    width: 47%;
+    height: 60px;
+    outline: none;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    margin: 0;
+    padding: 0 3%;
+    box-sizing: border-box;
+}
+.inpt-sbmt {
+    width: 13%;
+    height: 60px;
+    outline: none;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    margin: 0;
+    color: #fff;
+}
